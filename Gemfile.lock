@@ -215,6 +215,7 @@ DEPENDENCIES
   jekyll-github-metadata (>= 2.15)
   jekyll-include-cache
   just-the-docs!
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.5.14
