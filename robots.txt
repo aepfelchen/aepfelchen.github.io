@@ -1,5 +1,5 @@
 User-agent: *
 Disallow: /about-us/
-Allow: /$
+Allow: /
 
 Sitemap: https://aepfelchen.github.io/sitemap.xml
