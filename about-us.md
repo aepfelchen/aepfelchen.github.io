@@ -12,27 +12,109 @@ title: About Us
 I received my bachelor's and master's degrees in German Language and Literature at the Pusan ​​National University and recently completed my second master's degree in Cultural Data Studies at the Philipps University of Marburg. My recent areas of interest are network theory and quantitative analysis of texts.
 
 **Curriculum vitae**
+
+Education
+
 <table>
   <tbody>
     <tr>
-      <td>2021 – 2024</td>
-      <td>Philipps University of Marburg, Marburg (Germany)<br>Master of Arts Cultural Data Studies<br><br>Topic of the master thesis: Stylometric analysis of the correlation between letter and gender around 1800 using the example of the edition of August Wilhelm Schlegel’s correspondence</td>
+      <td>01 Oct. 2021 – Jul. 2024 (expected)</td>
+      <td>Philipps University of Marburg, Marburg (Germany)
+      <br>Master of Arts Cultural Data Studies
+      <br><br>Topic of the master thesis: Stylometric analysis of the correlation between letter and gender around 1800 using the example of the edition of August Wilhelm Schlegel’s correspondence</td>
     </tr>  
     <tr>
-      <td>2019 – 2021</td>
+      <td>Apr. 2019 – Jun. 2021</td>
       <td>Visiting german language courses at the University of Mannheim and at the Trier Language Center (B1-C1)</td>
     </tr>
     <tr>
-      <td>2016 – 2018</td>
-      <td>Pusan National University, Busan (Republic of Korea)<br>Graduate School: German Literature</td>
+      <td>02 Mar. 2016 – 23 Feb. 2018</td>
+      <td>Pusan National University, Busan (Republic of Korea)
+      <br>Graduate School: German Literature</td>
     </tr>
     <tr>
-      <td>2014 – 2016</td>
-      <td>Pusan National University, Busan (Republic of Korea)<br>Master of Arts German Language and Literature<br><br>Topic of the master thesis: Monetary economy and phase of personal socialization in <em>Wilhelm Meisters Lehr-</em>, <em>Wanderjahre</em>, and <em>Faust</em> by Goethe</td>
+      <td>03 Mar. 2014 – 26 Feb. 2016</td>
+      <td>Pusan National University, Busan (Republic of Korea)
+      <br>Master of Arts German Language and Literature
+      <br><br>Topic of the master thesis: Monetary economy and phase of personal socialization in <em>Wilhelm Meisters Lehr-</em>, <em>Wanderjahre</em>, and <em>Faust</em> by Goethe</td>
     </tr>
     <tr>
-      <td>2007 – 2014</td>
-      <td>Pusan National University, Busan (Republic of Korea)<br>Bachelor of Arts German Language and Literature / Minor English Language and Literature<br><br>Topic of the bachelor thesis: Appearances of modern humans in the world of simulacra using the example of the novel <em>Faserland</em> by Christian Kracht</td>
+      <td>02 Mar. 2007 – 21 Feb. 2014</td>
+      <td>Pusan National University, Busan (Republic of Korea)
+      <br>Bachelor of Arts German Language and Literature
+      <br>Minor English Language and Literature
+      <br><br>Topic of the bachelor thesis: Appearances of modern humans in the world of simulacra using the example of the novel <em>Faserland</em> by Christian Kracht</td>
+    </tr>
+  </tbody>
+</table>
+
+Work Experience
+
+<table>
+  <tbody>
+    <tr>
+      <td>16 Jan. 2024 – 01 Feb. 2024</td>
+      <td>Johannes Gutenberg University of Mainz, Mainz (Germany)
+      <br>Working as a freelancer on the project “Correspondences of Early Romanticism”<br><br>
+      <ul>
+        <li>Creating networks for further analysis including visualization and centrality calculations</li>
+      </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16 Nov. 2023 – 31 Dec. 2023</td>
+      <td>Johannes Gutenberg University of Mainz, Mainz (Germany)
+      <br>Internship in the project “Correspondences of Early Romanticism”<br><br>
+      <ul>
+        <li>Statistical analysis of data</li>
+        <li>Creation of project-specific networks and documentation (Python)</li>
+      </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>02 Oct. 2023 – 15 Nov. 2023</td>
+      <td>Academy of Sciences and Literature, Mainz (Germany)
+      <br>Internship in the project “Correspondences of Early Romanticism”<br><br>
+      <ul>
+        <li>Literature research</li>
+        <li>Development of queries for communication networks</li>
+        <li>Creation of documentation of the evaluation of the network analysis with networkx (Jupyter Lab)</li>
+      </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Mar. 2016 – Feb. 2019</td>
+      <td>German Language and Literature, College of Humanities, Pusan National University
+      <br>Teaching assistant (full-time)<br><br>
+      <ul>
+        <li>Administrative tasks for the chair</li>
+        <li>Support for teaching and publications</li>
+        <li>Organization and preparation of events</li>
+        <li>Advising students</li>
+      </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Mar. 2014 – Feb. 2016</td>
+      <td>German Language and Literature, College of Humanities, Pusan National University
+      <br>Student assistant in administration<br><br>
+      <ul>
+        <li>Administrative tasks</li>
+        <li>Support for lecturers</li>
+        <li>Preparation of courses</li>
+      </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Mar. 2012 – Aug. 2013</td>
+      <td>Korean Studies Institute, Pusan National University
+      <br>Studentische Hilfskraft<br><br>
+      <ul>
+        <li>Administrative tasks</li>
+        <li>Literature research and preparation for research projects</li>
+        <li>Support for lecturers</li>
+      </ul>
+      </td>
     </tr>
   </tbody>
 </table>
