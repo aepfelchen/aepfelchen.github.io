@@ -83,7 +83,7 @@ Work Experience
       </td>
     </tr>
     <tr>
-      <td>Mar. 2016 – Feb. 2019</td>
+      <td>01 Mar. 2016 – 01 Mar. 2019</td>
       <td>German Language and Literature, College of Humanities, Pusan National University
       <br>Teaching assistant (full-time)<br><br>
       <ul>
