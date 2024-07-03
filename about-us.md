@@ -18,7 +18,7 @@ Education
 <table>
   <tbody>
     <tr>
-      <td>01 Oct. 2021 – Jul. 2024 (expected)</td>
+      <td>01 Oct. 2021 – 02 Jun. 2024</td>
       <td>Philipps University of Marburg, Marburg (Germany)
       <br>Master of Arts Cultural Data Studies
       <br><br>Topic of the master thesis: Stylometric analysis of the correlation between letter and gender around 1800 using the example of the edition of August Wilhelm Schlegel’s correspondence</td>
