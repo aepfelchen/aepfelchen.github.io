@@ -52,6 +52,11 @@ Work Experience
 
 <table>
   <tbody>
+    <!--<tr>
+      <td>15 Jul. 2024 – current</td>
+      <td>University of Passau, Passau (Germany)
+      <br>Research assistant</td>
+    </tr>-->
     <tr>
       <td>16 Jan. 2024 – 01 Feb. 2024</td>
       <td>Johannes Gutenberg University of Mainz, Mainz (Germany)
@@ -108,7 +113,7 @@ Work Experience
     <tr>
       <td>Mar. 2012 – Aug. 2013</td>
       <td>Korean Studies Institute, Pusan National University
-      <br>Studentische Hilfskraft<br><br>
+      <br>Student assistant<br><br>
       <ul>
         <li>Administrative tasks</li>
         <li>Literature research and preparation for research projects</li>
