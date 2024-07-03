@@ -24,7 +24,7 @@ Education
       <br><br>Topic of the master thesis: Stylometric analysis of the correlation between letter and gender around 1800 using the example of the edition of August Wilhelm Schlegel’s correspondence</td>
     </tr>  
     <tr>
-      <td>Apr. 2019 – <br>Jun. 2021</td>
+      <td>Apr. 2019 – Jun. 2021</td>
       <td>Visiting german language courses at the University of Mannheim and at the Trier Language Center (B1-C1)</td>
     </tr>
     <tr>
