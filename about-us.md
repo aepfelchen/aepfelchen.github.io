@@ -52,11 +52,11 @@ Work Experience
 
 <table>
   <tbody>
-    <!--<tr>
+    <tr>
       <td>15 Jul. 2024 – current</td>
       <td>University of Passau, Passau (Germany)
-      <br>Research assistant</td>
-    </tr>-->
+      <br>Research assistant in the project "Computational Historical Ecology"</td>
+    </tr>
     <tr>
       <td>16 Jan. 2024 – 01 Feb. 2024</td>
       <td>Johannes Gutenberg University of Mainz, Mainz (Germany)
