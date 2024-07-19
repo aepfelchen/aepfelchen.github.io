@@ -55,6 +55,7 @@ Work Experience
     <tr>
       <td>15 Jul. 2024 – current</td>
       <td>University of Passau, Passau (Germany)
+      <br>Faculty of Digital Humanities
       <br>Research assistant in the project "Computational Historical Ecology"</td>
     </tr>
     <tr>
@@ -89,7 +90,9 @@ Work Experience
     </tr>
     <tr>
       <td>01 Mar. 2016 – 01 Mar. 2019</td>
-      <td>German Language and Literature, College of Humanities, Pusan National University
+      <td>Pusan National University, Busan (Republic of Korea)
+      <br>Faculty of Humanities
+      <br>German Language and Literature
       <br>Teaching assistant (full-time)<br><br>
       <ul>
         <li>Administrative tasks for the chair</li>
@@ -101,7 +104,9 @@ Work Experience
     </tr>
     <tr>
       <td>Mar. 2014 – Feb. 2016</td>
-      <td>German Language and Literature, College of Humanities, Pusan National University
+      <td>Pusan National University, Busan (Republic of Korea)
+      <br>Faculty of Humanities
+      <br>German Language and Literature
       <br>Student assistant in administration<br><br>
       <ul>
         <li>Administrative tasks</li>
@@ -112,7 +117,8 @@ Work Experience
     </tr>
     <tr>
       <td>Mar. 2012 – Aug. 2013</td>
-      <td>Korean Studies Institute, Pusan National University
+      <td>Pusan National University, Busan (Republic of Korea)
+      <br>Korean Studies Institute
       <br>Student assistant<br><br>
       <ul>
         <li>Administrative tasks</li>
