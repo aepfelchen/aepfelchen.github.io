@@ -18,33 +18,28 @@ Education
 <table>
   <tbody>
     <tr>
-      <td>01 Oct. 2021 
-      <br>– 02 Jun. 2024</td>
+      <td>01 Oct. 2021 – 02 Jun. 2024</td>
       <td>Philipps University of Marburg, Marburg (Germany)
       <br>Master of Arts Cultural Data Studies
       <br><br>Topic of the master thesis: Stylometric analysis of the correlation between letter and gender around 1800 using the example of the edition of August Wilhelm Schlegel’s correspondence</td>
     </tr>  
     <tr>
-      <td>Apr. 2019 
-      <br>– Jun. 2021</td>
+      <td>Apr. 2019 – Jun. 2021</td>
       <td>Visiting german language courses at the University of Mannheim and at the Trier Language Center (B1-C1)</td>
     </tr>
     <tr>
-      <td>02 Mar. 2016 
-      <br>– 23 Feb. 2018</td>
+      <td>02 Mar. 2016 – 23 Feb. 2018</td>
       <td>Pusan National University, Busan (Republic of Korea)
       <br>Graduate School: German Literature</td>
     </tr>
     <tr>
-      <td>03 Mar. 2014 
-      <br>– 26 Feb. 2016</td>
+      <td>03 Mar. 2014 – 26 Feb. 2016</td>
       <td>Pusan National University, Busan (Republic of Korea)
       <br>Master of Arts German Language and Literature
       <br><br>Topic of the master thesis: Monetary economy and phase of personal socialization in <em>Wilhelm Meisters Lehr-</em>, <em>Wanderjahre</em>, and <em>Faust</em> by Goethe</td>
     </tr>
     <tr>
-      <td>02 Mar. 2007 
-      <br>– 21 Feb. 2014</td>
+      <td>02 Mar. 2007 – 21 Feb. 2014</td>
       <td>Pusan National University, Busan (Republic of Korea)
       <br>Bachelor of Arts German Language and Literature
       <br>Minor English Language and Literature
@@ -58,15 +53,13 @@ Work Experience
 <table>
   <tbody>
     <tr>
-      <td>15 Jul. 2024 
-      <br>– current</td>
+      <td>15 Jul. 2024 – current</td>
       <td>University of Passau, Passau (Germany)
       <br>Faculty of Digital Humanities
       <br>Research assistant in the project "Computational Historical Ecology"</td>
     </tr>
     <tr>
-      <td>16 Jan. 2024 
-      <br>– 01 Feb. 2024</td>
+      <td>16 Jan. 2024 – 01 Feb. 2024</td>
       <td>Johannes Gutenberg University of Mainz, Mainz (Germany)
       <br>Working as a freelancer on the project “Correspondences of Early Romanticism”<br><br>
       <ul>
@@ -75,8 +68,7 @@ Work Experience
       </td>
     </tr>
     <tr>
-      <td>16 Nov. 2023 
-      <br>– 31 Dec. 2023</td>
+      <td>16 Nov. 2023 – 31 Dec. 2023</td>
       <td>Johannes Gutenberg University of Mainz, Mainz (Germany)
       <br>Internship in the project “Correspondences of Early Romanticism”<br><br>
       <ul>
@@ -86,8 +78,7 @@ Work Experience
       </td>
     </tr>
     <tr>
-      <td>02 Oct. 2023 
-      <br>– 15 Nov. 2023</td>
+      <td>02 Oct. 2023 – 15 Nov. 2023</td>
       <td>Academy of Sciences and Literature, Mainz (Germany)
       <br>Internship in the project “Correspondences of Early Romanticism”<br><br>
       <ul>
@@ -98,8 +89,7 @@ Work Experience
       </td>
     </tr>
     <tr>
-      <td>01 Mar. 2016 
-      <br>– 01 Mar. 2019</td>
+      <td>01 Mar. 2016 – 01 Mar. 2019</td>
       <td>Pusan National University, Busan (Republic of Korea)
       <br>Faculty of Humanities
       <br>German Language and Literature
@@ -113,8 +103,7 @@ Work Experience
       </td>
     </tr>
     <tr>
-      <td>Mar. 2014 
-      <br>– Feb. 2016</td>
+      <td>Mar. 2014 – Feb. 2016</td>
       <td>Pusan National University, Busan (Republic of Korea)
       <br>Faculty of Humanities
       <br>German Language and Literature
@@ -127,8 +116,7 @@ Work Experience
       </td>
     </tr>
     <tr>
-      <td>Mar. 2012
-      <br>– Aug. 2013</td>
+      <td>Mar. 2012 – Aug. 2013</td>
       <td>Pusan National University, Busan (Republic of Korea)
       <br>Korean Studies Institute
       <br>Student assistant<br><br>
