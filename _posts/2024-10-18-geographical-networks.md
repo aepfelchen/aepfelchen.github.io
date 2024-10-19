@@ -33,13 +33,13 @@ Die Abbildungen 1 bis 5 illustrieren nachfolgend Korrespondenzen zwischen Schleg
 
 ### Literatur
 - Jannidis, F. (2017): „10 Netzwerke“. In: Digital Humanities: eine Einführung, herausgegeben von Fotis Jannidis u. a., J.B. Metzler Verlag, S. 147–161.
-- Rodrigues, Francisco Aparecido (2019): Network Centrality: an Introduction. (zuletzt abgerufen am 19.10.2024, http://arxiv.org/abs/1901.07901).
+- Rodrigues, Francisco Aparecido (2019): Network Centrality: an Introduction. (zuletzt abgerufen am 18.10.2024, http://arxiv.org/abs/1901.07901).
 - Wolf, C. (2010). Egozentrierte Netzwerke: Datenerhebung und Datenanalyse. In: Stegbauer, C., Häußling, R. (eds) Handbuch Netzwerkforschung. VS Verlag für Sozialwissenschaften, S. 471–483.
 
 ### Internetquellen
-- https://august-wilhelm-schlegel.de/briefedigital/ (zuletzt abgerufen am 19.10.2024).
-- https://hgl.harvard.edu/catalog/harvard-ghgis1820germanconfed (zuletzt abgerufen am 19.10.2024).
-- https://networkx.org/ (zuletzt abgerufen am 19.10.2024).
-- https://python-visualization.github.io/folium/latest/ (zuletzt abgerufen am 19.10.2024).
-- https://www.uni-marburg.de/de/fb09/neuere-deutsche-literatur/institut/personen/strobel/ (zuletzt abgerufen am 19.10.2024).dfg-projekt-korrespondenzen-der-fruehromantik
-- https://www.uni-marburg.de/de/fb09/neuere-deutsche-literatur/institut/personen/strobel/dfg-projekt-schlegel (zuletzt abgerufen am 19.10.2024).
+- https://august-wilhelm-schlegel.de/briefedigital/ (zuletzt abgerufen am 18.10.2024).
+- https://hgl.harvard.edu/catalog/harvard-ghgis1820germanconfed (zuletzt abgerufen am 18.10.2024).
+- https://networkx.org/ (zuletzt abgerufen am 18.10.2024).
+- https://python-visualization.github.io/folium/latest/ (zuletzt abgerufen am 18.10.2024).
+- https://www.uni-marburg.de/de/fb09/neuere-deutsche-literatur/institut/personen/strobel/ (zuletzt abgerufen am 18.10.2024).dfg-projekt-korrespondenzen-der-fruehromantik
+- https://www.uni-marburg.de/de/fb09/neuere-deutsche-literatur/institut/personen/strobel/dfg-projekt-schlegel (zuletzt abgerufen am 18.10.2024).

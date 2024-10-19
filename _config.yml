@@ -1,4 +1,5 @@
 # Setup
+future:              true
 published:           true
 title:               litlinglab
 tagline:             'a blog documenting ideas and research (drafts) in the fields of computational & digital humanities'
