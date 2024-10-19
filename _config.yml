@@ -6,6 +6,8 @@ url:                 https://aepfelchen.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+future: true
+published: true
 
 # About/contact
 author:
