@@ -26,7 +26,7 @@ Die Abbildungen 1 bis 5 illustrieren nachfolgend Korrespondenzen zwischen Schleg
 <iframe src="files/html/posts/geographic_network_of_correspondence_by_letter_between_1831_and_1845.html" height="600px" width="100%" style="border:none;"></iframe>
 <p style='font-size:15px'> Abb. 5: Graph für Korrespondenz von AWS zwischen 1831 und 1845 </p>
 
-### Erste Ergebnisse de graph- und netzwerktheoretischen Analyse
+### Erste Ergebnisse der graph- und netzwerktheoretischen Analyse
 <p style="text-align:justify">
  Schlegel war die am weitesten gereiste, die 'europäischste' der Personen aus dem Kreis der Jenaer Frühromantik um 1800. Zu ermitteln war, wie international Schlegels Korrespondenz war. Er selbst hielt sich zweimal mehrere Jahre im Ausland auf: jeweils als Hauslehrer in Amsterdam und in Coppet am Genfer See. Die Graphen (Abb. 1) und (Abb. 3) zeugen von diesen Tätigkeiten, Graph (Abb. 3) auch davon, wie dicht Schlegels Korrespondentennetz über Europa hinweg in den Kriegsjahren ab etwa 1804 war. Das geographische Korrespondenzwerk (Abb. 2) aus der für die Wirkung der Romantik wichtigen Jenaer und Berliner Zeit, etwa zwischen 1796 und 1803, erweist sich als fast ausschließlich deutschlandintern, also richtiggehend als provinziell. (Abb. 4) und (Abb. 5) repräsentieren Schlegels letztes Lebensdrittel ab 1818 als Professor in Bonn: Er baut das international agierende Fach Indologie auf und korrespondiert deswegen mit London und Paris. Die geographischen Knoten konzentrieren sich: neben Bonn, London und Paris ist es nun vor allem Berlin, Hauptstadt und Sitz seines Ministers. Die Graphen lassen Rückschlüsse zu auf den 'europäischen' Charakter von Schlegels Korrespondenz und deren Dynamik über die Jahrzehnte seines Lebens.
 </p>
