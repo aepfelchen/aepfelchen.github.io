@@ -9,7 +9,7 @@ title: About Us
 
 ### Gwanghun Park
 
-I received my bachelor's and master's degrees in German Language and Literature at the Pusan ​​National University and recently completed my second master's degree in Cultural Data Studies at the Philipps University of Marburg. My recent areas of interest are network theory and quantitative analysis of texts. I am currently working as a research assistant at [chair of Computational Humanities](https://www.geku.uni-passau.de/dh/lehrstuhlteam/gwanghun-park) at the university of Passau.
+I received my bachelor's and master's degrees in German Language and Literature at the Pusan ​​National University and recently completed my second master's degree in Cultural Data Studies at the Philipps University of Marburg. My recent areas of interest are network theory and quantitative analysis of texts. I am currently working as a research assistant at [the Chair of Computational Humanities at the university of Passau](https://www.geku.uni-passau.de/dh/lehrstuhlteam/gwanghun-park).
 
 **Curriculum vitae**
 
