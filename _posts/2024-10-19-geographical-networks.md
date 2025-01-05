@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geographische Netzwerke von August Wilhelm Schlegels Korrespondenz (Gwanghun Park, Prof. Dr. Jochen Strobel)
+title: Geographische Netzwerke von Korrespondenz August Wilhelm Schlegels (Gwanghun Park, Prof. Dr. Jochen Strobel)
 ---
 <p style="text-align:justify">
 Mit Hilfe von Netzwerkgraphen können wir heute Metadaten in Korpora visualisieren und im Rahmen der qualitativen Analysen solcher Netzwerkstrukturen Informationen aufdecken, die nicht immer auf den ersten Blick zugänglich sind (vgl. u.a. Rodrigues 2019). Ein Beispiel dafür sind soziale oder geographische Relationen, die hier nachfolgend für die Untersuchung von Korrespondenzen aus dem Kreis der sogenannten Frühromatiker und Frühromantikerinnen um die Brüder Schlegel dargestellt und im nächsten Schritt netzwerktheoretisch analysiert wurden. Diese Arbeit basiert auf Arbeiten in den Projekten "Digitalisierung und elektronische Edition der Korrespondenz August Wilhelm Schlegels" (abgeschlossen, weitere Informationen unter https://www.uni-marburg.de/de/fb09/neuere-deutsche-literatur/institut/personen/strobel/dfg-projekt-schlegel) und "Korrespondenzen der Frühromantik. Edition – Annotation – Netzwerkforschung" (aktuell, https://www.uni-marburg.de/de/fb09/neuere-deutsche-literatur/institut/personen/strobel/dfg-projekt-korrespondenzen-der-fruehromantik).<br><br>
