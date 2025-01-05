@@ -1,4 +1,5 @@
 ---
+future: true
 layout: post
 title: Geographische Netzwerke von August Wilhelm Schlegels Korrespondenz (Gwanghun Park, Prof. Dr. Jochen Strobel)
 ---
