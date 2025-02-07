@@ -41,5 +41,5 @@ Die Abbildungen 1 bis 5 illustrieren nachfolgend Korrespondenzen zwischen Schleg
 - https://hgl.harvard.edu/catalog/harvard-ghgis1820germanconfed (zuletzt abgerufen am 19.10.2024).
 - https://networkx.org/ (zuletzt abgerufen am 19.10.2024).
 - https://python-visualization.github.io/folium/latest/ (zuletzt abgerufen am 19.10.2024).
-- https://www.uni-marburg.de/de/fb09/neuere-deutsche-literatur/institut/personen/strobel/ (zuletzt abgerufen am 19.10.2024).dfg-projekt-korrespondenzen-der-fruehromantik
+- https://www.uni-marburg.de/de/fb09/neuere-deutsche-literatur/institut/personen/strobel/dfg-projekt-korrespondenzen-der-fruehromantik (zuletzt abgerufen am 19.10.2024).
 - https://www.uni-marburg.de/de/fb09/neuere-deutsche-literatur/institut/personen/strobel/dfg-projekt-schlegel (zuletzt abgerufen am 19.10.2024).
