@@ -4,7 +4,7 @@ This blog plans to record and post various research results in the future.
 
 ### Gwanghun Park
 
-I received my bachelor's and master's degrees in German Language and Literature at the Pusan ​​National University and recently completed my second master's degree in Cultural Data Studies at the Philipps University of Marburg. My recent areas of interest are network theory and quantitative analysis of texts.
+I received my bachelor's and master's degrees in German Studies at the Pusan ​​National University and completed my second master's degree in Cultural Data Studies at the Philipps University of Marburg. Most recently, I worked at the Chair of Computational Humanities at the University of Passau. My recent areas of interest are network and information theory, natural language processing (NLP), and discourse analysis.
 
 ### Maike Park
 
